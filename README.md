@@ -2,12 +2,12 @@
 
 Tämä repositorio on tarkoitettu opiskelijoiden tueksi. Täällä voit kysyä apua tehtäviin liittyvissä ongelmissa sekä ehdottaa parannuksia opetukseen, materiaaleihin ja työkaluihin.
 
-## Miten saat apua tehtäviin/ongelmiin? (Q&A)
+## Apua kurssien tehtäviin/ongelmiin? (Kurssikysymykset)
 
-Jos kohtaat ongelmia tehtävissä, luo uusi keskustelu **Q&A**-osioon:
+Jos kohtaat ongelmia kurssien tehtävissä, luo uusi keskustelu **Kurssikysymykset**-osioon:
 
 1. Siirry [Discussions](../../discussions)-välilehdelle.
-2. Valitse **Q&A**-kategoria.
+2. Valitse **Kurssikysymykset**-kategoria.
 3. Klikkaa **New discussion** — lomake ohjaa sinua antamaan tarvittavat tiedot.
 4. Täytä kaikki kentät huolellisesti:
    - **Kurssi / aihepiiri** — valitse oikea kurssi pudotusvalikosta.
@@ -17,7 +17,16 @@ Jos kohtaat ongelmia tehtävissä, luo uusi keskustelu **Q&A**-osioon:
    - **Virheviestit tai koodi** — liitä oleelliset virheviestit tai koodinpätkät.
 5. Lähetä kysymys ja odota vastausta.
 
-Mitä tarkemmin kuvaat ongelman, sitä nopeammin saat apua!
+## Vapaamuotoinen kysymys
+
+Jos kohtaat ongelmia jotka ovat avoimempia, kuten käyttöjärjestelmässä, ohjelmistoissa tai muussa vastaavissa laita silloin kysymys 
+
+1. Siirry [Discussions](../../discussions)-välilehdelle.
+2. Valitse **Avoimet kysymykset**-kategoria.
+3. Klikkaa **New discussion** — lomake ohjaa sinua antamaan tarvittavat tiedot.
+4. Kirjoita ongelma mahdollisimman hyvin
+5. Lähetä kysymys ja odota vastausta.
+
 
 ## Miten ehdotat parannuksia? (Ideas)
 
