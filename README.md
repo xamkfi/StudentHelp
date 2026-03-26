@@ -2,6 +2,8 @@
 
 Tämä repositorio on tarkoitettu opiskelijoiden tueksi. Täällä voit kysyä apua tehtäviin liittyvissä ongelmissa sekä ehdottaa parannuksia opetukseen, materiaaleihin ja työkaluihin.
 
+Tämä on avoin yhteisö — **sekä opiskelijat että opettajat voivat vastata avoimiin kysymyksiin ja auttaa toisiaan**. Jos näet kysymyksen, johon osaat vastata, rohkeasti mukaan auttamaan!
+
 ## Apua kurssien tehtäviin/ongelmiin? (Kurssikysymykset)
 
 Jos kohtaat ongelmia kurssien tehtävissä, luo uusi keskustelu **Kurssikysymykset**-osioon:
