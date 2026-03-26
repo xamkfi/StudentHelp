@@ -24,6 +24,9 @@ Jos kohtaat ongelmia kurssien tehtävissä, luo uusi keskustelu **Kurssikysymyks
 
 Käytä labeleita, jotta kysymyksesi on helpompi löytää ja luokitella:
 
+<img width="1690" height="529" alt="image" src="https://github.com/user-attachments/assets/0cb22bfb-d01d-43e5-aa25-a96e92198e71" />
+
+
 | Label | Milloin käyttää |
 |-------|-----------------|
 | **question** | Oletustagi kaikille kysymyksille — lisätään automaattisesti templaten kautta. |
