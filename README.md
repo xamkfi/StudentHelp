@@ -17,7 +17,23 @@ Jos kohtaat ongelmia kurssien tehtävissä, luo uusi keskustelu **Kurssikysymyks
    - **Ongelman kuvaus** — kerro selkeästi, mitä yritit tehdä ja mitä tapahtui.
    - **Mitä olet jo kokeillut** — listaa ratkaisuyritykset, jotta sinua voidaan auttaa tehokkaammin.
    - **Virheviestit tai koodi** — liitä oleelliset virheviestit tai koodinpätkät.
-5. Lähetä kysymys ja odota vastausta.
+5. **Lisää sopiva label** kysymykseesi (katso alla).
+6. Lähetä kysymys ja odota vastausta.
+
+### Labelit (tagit)
+
+Käytä labeleita, jotta kysymyksesi on helpompi löytää ja luokitella:
+
+| Label | Milloin käyttää |
+|-------|-----------------|
+| **question** | Oletustagi kaikille kysymyksille — lisätään automaattisesti templaten kautta. |
+| **bug** | Koodisi ei toimi odotetusti tai saat virheilmoituksen, jonka syytä et ymmärrä. |
+| **help wanted** | Olet jumissa ja tarvitset erityisesti apua — tämä nostaa kysymyksen näkyvyyttä. |
+| **duplicate** | Opettajat/moderaattorit merkitsevät tällä kysymyksen, jos sama ongelma on jo käsitelty aiemmin. |
+| **enhancement** | Sinulla on ehdotus, miten tehtävänantoa, materiaalia tai kurssia voisi parantaa. |
+| **documentation** | Kurssimateriaalissa tai ohjeissa on puute, virhe tai epäselvyys. |
+
+Voit lisätä labelin kysymykseesi klikkaamalla **Labels**-kohtaa keskustelun sivupalkissa.
 
 ## Vapaamuotoinen kysymys
 
