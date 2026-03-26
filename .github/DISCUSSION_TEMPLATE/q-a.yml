@@ -13,27 +13,17 @@ body:
       label: Kurssi / aihepiiri
       description: Valitse kurssi tai aihepiiri, johon kysymyksesi liittyy.
       options:
-        - Tietokone- ja ICT-ympäristöt
         - Ohjelmoinnin perustaidot
-        - Diskreetti matematiikka 1
         - Ohjelmointi ja ongelmanratkaisu
-        - Viestintätaidot
         - Olio-ohjelmointi
         - Tietokannat
         - Käyttäjäkokemus ja käyttöliittymät
-        - Tietoverkot ja tietoliikenne
-        - Differentiaali- ja integraalilaskenta
-        - Ammattienglanti
         - Ohjelmointiprojekti
         - Tietorakenteet ja algoritmit
         - Laitteistoläheinen ohjelmointi ja IoT
-        - Ammattiruotsi
-        - Diskreetti matematiikka 2
         - Web-teknologiat
         - Web-sovellusten kehittäminen
         - Ohjelmistotuotannon menetelmät
-        - Todennäköisyyslaskenta ja tilastolliset menetelmät
-        - Tietotekniikan fysiikka
         - Ohjelmistojen tietoturva
         - Ohjelmistotuotannon projekti
         - Tekoälyn sovellukset
@@ -49,13 +39,8 @@ body:
         - Tekoäly ja koneoppiminen
         - Pilvipohjainen sovelluskehitys
         - DevOps
-        - Projektinhallinta ja menetelmät
         - Soveltava ohjelmistoprojekti
         - Full stack projekti
-        - Harjoittelu
-        - Opinnäytetyön ideointi ja suunnittelu
-        - Opinnäytetyön toteutus
-        - Opinnäytetyön raportointi, arviointi ja esittely
         - Mobiiliohjelmointi
         - Tietoturva
         - IoT
