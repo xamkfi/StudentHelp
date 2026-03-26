@@ -8,6 +8,9 @@ Tämä on avoin yhteisö — **sekä opiskelijat että opettajat voivat vastata 
 
 Jos kohtaat ongelmia kurssien tehtävissä, luo uusi keskustelu **Kurssikysymykset**-osioon:
 
+<img width="405" height="415" alt="image" src="https://github.com/user-attachments/assets/5f80d657-3945-46f3-96b0-a748aa8211e0" />
+
+
 1. Siirry [Discussions](../../discussions)-välilehdelle.
 2. Valitse **Kurssikysymykset**-kategoria.
 3. Klikkaa **New discussion** — lomake ohjaa sinua antamaan tarvittavat tiedot.
