@@ -1,0 +1,86 @@
+title: "[Kysymys] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Kiitos kun kysyt apua! Täytä alla olevat kentät mahdollisimman tarkasti,
+        niin sinua on helpompi auttaa.
+
+  - type: dropdown
+    id: course
+    attributes:
+      label: Kurssi / aihepiiri
+      description: Valitse kurssi tai aihepiiri, johon kysymyksesi liittyy.
+      options:
+        - Ohjelmoinnin perustaidot
+        - Ohjelmointi ja ongelmanratkaisu
+        - Olio-ohjelmointi
+        - Tietokannat
+        - Käyttäjäkokemus ja käyttöliittymät
+        - Ohjelmointiprojekti
+        - Tietorakenteet ja algoritmit
+        - Laitteistoläheinen ohjelmointi ja IoT
+        - Web-teknologiat
+        - Web-sovellusten kehittäminen
+        - Ohjelmistotuotannon menetelmät
+        - Ohjelmistojen tietoturva
+        - Ohjelmistotuotannon projekti
+        - Tekoälyn sovellukset
+        - Datan käsittely ja ohjelmointi
+        - Peliohjelmointi
+        - Ohjelmistotestaus
+        - Backend kehitys
+        - Frontend kehitys ja käyttöliittymä suunnittelu
+        - Tietokannan perusteet
+        - Ohjelmistoarkkitehtuuri
+        - Ohjelmistojen testaus
+        - Kokonaisvaltainen ohjelmistokehitys
+        - Tekoäly ja koneoppiminen
+        - Pilvipohjainen sovelluskehitys
+        - DevOps
+        - Soveltava ohjelmistoprojekti
+        - Full stack projekti
+        - Mobiiliohjelmointi
+        - Tietoturva
+        - IoT
+        - Pilviympäristöt
+        - Muu
+    validations:
+      required: true
+
+  - type: input
+    id: assignment
+    attributes:
+      label: Tehtävän numero tai nimi
+      description: Esim. "Tehtävä 3.2" tai "Viikkotehtävä 5 - Tietokannat"
+      placeholder: "Tehtävä X.X"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Ongelman kuvaus
+      description: Kuvaile ongelma mahdollisimman selkeästi. Mitä yritit tehdä ja mitä tapahtui?
+      placeholder: "Kuvaile ongelma tähän..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: Mitä olet jo kokeillut?
+      description: Kerro, mitä ratkaisuja olet jo yrittänyt. Tämä auttaa välttämään päällekkäisiä ehdotuksia.
+      placeholder: "Olen kokeillut..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: code
+    attributes:
+      label: Virheviestit tai koodi
+      description: Liitä mahdolliset virheviestit tai oleellinen koodinpätkä tähän. Tämä kenttä näytetään koodilohkona.
+      render: text
+    validations:
+      required: false
