@@ -16,9 +16,11 @@ Jos kohtaat ongelmia kurssien tehtävissä, luo uusi keskustelu **Kurssikysymyks
 3. Klikkaa **New discussion** — lomake ohjaa sinua antamaan tarvittavat tiedot.
 4. Täytä kaikki kentät huolellisesti:
    - **Kurssi / aihepiiri** — valitse oikea kurssi pudotusvalikosta.
+   - **Kurssin opettaja** — kirjoita kurssin opettajan nimi.
    - **Tehtävän numero tai nimi** — esim. "Tehtävä 3.2".
    - **Ongelman kuvaus** — kerro selkeästi, mitä yritit tehdä ja mitä tapahtui.
    - **Mitä olet jo kokeillut** — listaa ratkaisuyritykset, jotta sinua voidaan auttaa tehokkaammin.
+   - **GitHub-repositorion linkki** — liitä linkki repoosi, jos koodisi on GitHubissa (varmista, että repo on julkinen tai että opettajalla on pääsy siihen).
    - **Virheviestit tai koodi** — liitä oleelliset virheviestit tai koodinpätkät.
 5. **Lisää sopiva label** kysymykseesi (katso alla).
 6. Lähetä kysymys ja odota vastausta.
