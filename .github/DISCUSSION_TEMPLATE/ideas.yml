@@ -1,0 +1,26 @@
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Onko sinulla idea, jolla voisi parantaa opetusta, materiaaleja tai työkaluja?
+        Kerro siitä alla!
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Idean kuvaus
+      description: Kuvaile ideasi mahdollisimman selkeästi. Mitä ehdotat?
+      placeholder: "Kuvaile ideasi tähän..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Miksi tämä olisi hyödyllistä?
+      description: Kerro, miksi tämä parannus olisi tärkeä ja ketä se hyödyttäisi.
+      placeholder: "Tämä olisi hyödyllistä, koska..."
+    validations:
+      required: true
