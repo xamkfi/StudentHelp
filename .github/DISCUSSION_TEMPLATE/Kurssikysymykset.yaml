@@ -50,6 +50,15 @@ body:
       required: true
 
   - type: input
+    id: teacher
+    attributes:
+      label: Kurssin opettaja
+      description: Kirjoita kurssin opettajan nimi.
+      placeholder: "Etunimi Sukunimi"
+    validations:
+      required: false
+
+  - type: input
     id: assignment
     attributes:
       label: Tehtävän numero tai nimi
@@ -75,6 +84,15 @@ body:
       placeholder: "Olen kokeillut..."
     validations:
       required: true
+
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub-repositorion linkki
+      description: Liitä linkki GitHub-repositorioosi, jossa koodi sijaitsee. Varmista, että repo on julkinen tai jaettu auttajille.
+      placeholder: "https://github.com/käyttäjä/repo"
+    validations:
+      required: false
 
   - type: textarea
     id: code
